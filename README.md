@@ -9,16 +9,18 @@ A group project inspired by Stack Overflow, incorporating a charity element. Use
 
 ###Technology
 
-It was built using an Express/Node Backend accessing a MongoDB, with Angular on the Frontend. I was responsible for building out the Angular JS on the front end, including authentication and building the user index and user profile pages. We integrated the JustGiving API for selecting charities.
+It was built using an Express/Node Backend accessing a MongoDB, with Angular on the Frontend. I was responsible for building out the Angular JS on the front end, including authentication and building the user index and user profile pages. We integrated the JustGiving API for selecting charities. I also contributed to the styling and branding.
 
 ###Approach to the build of Code Fund: 
 
 The app was built over the course of 4 days with a team of 5, this consisted of planning, collaboration and delegation of tasks. We used Balsamiq for wireframes, Trello for organisation and the delegation of tasks and git for version and collaboration control.
 We also often pair programmed on more complicated tasks and brainstormed as a team for branding/design ideas.
 
-###The completed app is deployed on Heroku:
+One of the most complex tasks we collaborated on was designing the models for this project. As we decided to filter the questions by coding language, we decided we would require four models - user, language, question, and answer. The user model would store the basic authentication information, along with the charity selected by the user, and the questions he asked. The language model stored the languages, which were seeded in, and the questions associated with each language. The question models stored the obvious information, plus the monetary value the question asker would donate in return for a solution. Finally, the answer model stored the response, the owner, the question and whether it was the chosen solution by the question asker, as a Boolean value set to default false.
 
-Will link to live application when deployed.
+
+###The completed Mean Stack app is deployed on Heroku:
+https://codefund.herokuapp.com
 
 ###Wins
 

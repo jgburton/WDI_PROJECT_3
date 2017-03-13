@@ -7,6 +7,23 @@ This is my third project for the Web Development Immersive boot camp at General 
 
 A group project inspired by Stack Overflow, incorporating a charity element. Users can sign up choosing a charity via the integrated JustGiving API and ask programming questions. Other users can post answers in response to the question and the poster of the question then donates the set bounty to their answerers chosen charity.
 
+Home
+[]!(http://i.imgur.com/l8P6QnJ.png)
+
+Users Page
+[]!(http://i.imgur.com/0SM08kK.png)
+
+Choose your technology
+[]!(http://i.imgur.com/rgr8w9V.png)
+
+Questions List - JavaScript
+[]!(http://i.imgur.com/H4oIUCn.png)
+
+Example question
+[]!(http://i.imgur.com/Uhi5JPa.png)
+
+
+
 ###Technology
 
 It was built using an Express/Node Backend accessing a MongoDB, with Angular on the Frontend. I was responsible for building out the Angular JS on the front end, including authentication and building the user index and user profile pages. We integrated the JustGiving API for selecting charities. I also contributed to the styling and branding.

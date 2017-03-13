@@ -4,7 +4,7 @@
 ___
 <br>
 
-#WDI_PROJECT_3
+#PROJECT_3
 This is my third project for the Web Development Immersive boot camp at General Assembly. This was a group project.
 
 ##Code Fund - Group Project MEAN Stack App

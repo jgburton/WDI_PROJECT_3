@@ -7,8 +7,6 @@ ___
 #WDI_PROJECT_3
 This is my third project for the Web Development Immersive boot camp at General Assembly. This was a group project.
 
-#GA WDI Project 3
-
 ##Code Fund - Group Project MEAN Stack App
 
 A group project inspired by Stack Overflow, incorporating a charity element. Users can sign up choosing a charity via the integrated JustGiving API and ask programming questions. Other users can post answers in response to the question and the poster of the question then donates the set bounty to their answerers chosen charity.
